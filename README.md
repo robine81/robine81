@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋, my name is Robine
+#### I am GitHub Readme Generator's creator
+![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
+I'm Robine from Sweden, currently living in Berlin, Germany. I am a former Technical Project management with an education in Software Engineering. I have recently levelled upped my skills learning the MERN stack with the Ironhack program. I really enjoy learning languages and frameworks like React and and WordPress.
+
+Skills: NODE JS / REACT / JS / HTML / CSS
+
 
 <!--
 **robine81/robine81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
