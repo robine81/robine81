@@ -9,6 +9,8 @@ I'm Robine - I have 8+ years of experience working in the tech world, first as a
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40" style="max-width: 100%;"></a> 
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original-wordmark.svg" title="Git" width="40" height="40" style="max-width: 100%;"></a>
 
+  ![Codewars](https://github.r2v.ch/codewars?user=robinewestberg&stroke=black)
+
 - 🔭 I’m currently looking for a job. 
 - 📫 How to reach me: robine@robine.cc 
 - ⚡ Fun fact: I'm a DJ 
