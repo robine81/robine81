@@ -1,23 +1,15 @@
-### Hi there 👋, my name is Robine
-#### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+### Hi there 👋, I'm Robine
+#### Web Development
+I'm Robine from Sweden, currently living in Berlin, Germany.
 
-I'm Robine from Sweden, currently living in Berlin, Germany. I am a former Technical Project management with an education in Software Engineering. I have recently levelled upped my skills learning the MERN stack with the Ironhack program. I really enjoy learning languages and frameworks like React and and WordPress.
+Skills: REACT / JS / HTML / CSS
 
-Skills: NODE JS / REACT / JS / HTML / CSS
+- 🔭 I’m currently working on this page. 
+- 📫 How to reach me: robine@robine.cc 
+- ⚡ Fun fact: I'm a DJ 
 
 
-<!--
-**robine81/robine81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/robine81)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/in/web-dev-robine-westberg//)  
 
-Here are some ideas to get you started:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robine81)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
