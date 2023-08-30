@@ -2,8 +2,7 @@
 I'm Robine - I have 8+ years of experience working in the tech world, first as a system integrator and then technical project manager. I have worked internationally as a consultant for mobile providers and also at the Stockholm hub at Spotify. I have recently levelled upped my software engineering skills from university with an insense 9-week Bootcamp program learning the MERN stack. I really enjoy learning languages and frameworks like React and Wordpress.
 
 ## I'm currently learning and using:
-[<img src='(https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg)' alt='react' height='40'>]
-
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40" style="max-width: 100%;"></a> 
 *  💻 HTML, CSS, JS
 
 - 🔭 I’m currently looking for a job. 
