@@ -1,11 +1,11 @@
 # Robine Westberg
-I'm Robine from Sweden, currently living in Berlin, Germany. I really enjoy ylearning languages and framworks like React and Wordpress.
+I'm Robine from Sweden, currently living in Berlin, Germany. I really enjoy learning languages and frameworks like React and Wordpress.
 
 ## Skills and Experience:
 *  ⚛️ React
 *  💻 HTML, CSS, JS
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently looking for a job. 
 - 📫 How to reach me: robine@robine.cc 
 - ⚡ Fun fact: I'm a DJ 
 
