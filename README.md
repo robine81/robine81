@@ -1,5 +1,5 @@
-# Robine Westberg
-I'm Robine from Sweden, currently living in Berlin, Germany. I really enjoy learning languages and frameworks like React and Wordpress.
+### Hi there 👋
+I'm Robine - I have 8+ years of experience working in the tech world, first as a system integrator and then technical project manager. I have worked internationally as a consultant for mobile providers and also at the Stockholm hub at Spotify. I have recently levelled upped my software engineering skills from university with an insense 9-week Bootcamp program learning the MERN stack. I really enjoy learning languages and frameworks like React and Wordpress.
 
 ## Skills and Experience:
 *  ⚛️ React
