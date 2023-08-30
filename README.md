@@ -1,8 +1,6 @@
 ### Hi there 👋
 I'm Robine - I have 8+ years of experience working in the tech world, first as a system integrator and then technical project manager. I have worked internationally as a consultant for mobile providers and also at the Stockholm hub at Spotify. I have recently levelled upped my software engineering skills from university with an insense 9-week Bootcamp program learning the MERN stack. I really enjoy learning languages and frameworks like React and Wordpress.
 
-📫 How to reach me: robine@robine.cc 
-
 ## I'm currently learning and using:
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40" style="max-width: 100%;"></a> 
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40" style="max-width: 100%;"></a> 
@@ -18,6 +16,6 @@ I'm Robine - I have 8+ years of experience working in the tech world, first as a
 ## Would you like to connect?
 
 <a id="user-content--would-you-like-to-connect-check-out-my-linkedin--" class="anchor" aria-hidden="true" tabindex="-1" href="#-would-you-like-to-connect-check-out-my-linkedin--"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a> Would you like to connect? check out my Linkedin  </h3>
-<p dir="auto"><a href="https://www.linkedin.com/in/jonnathan-gomez-pineda/" rel="nofollow"><img src="https://camo.githubusercontent.com/1b3a98a6f9dc0b661fff8ca80b84338580750ffba882bd625efe869293d05307/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6c696e6b6564696e" alt="Linkedin" data-canonical-src="https://skillicons.dev/icons?i=linkedin" style="max-width: 100%;"></a>
+<p dir="auto"><a href="https://www.linkedin.com/in/web-dev-robine-westberg/" rel="nofollow"><img src="https://camo.githubusercontent.com/1b3a98a6f9dc0b661fff8ca80b84338580750ffba882bd625efe869293d05307/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6c696e6b6564696e" alt="Linkedin" data-canonical-src="https://skillicons.dev/icons?i=linkedin" style="max-width: 100%;"></a>
 
 
