@@ -1,8 +1,11 @@
-### Hi there 👋, I'm Robine
-#### Web Development
-I'm Robine from Sweden, currently living in Berlin, Germany.
+#Robine Westberg
+I'm Robine from Sweden, currently living in Berlin, Germany. I really enjoy ylearning languages and framworks like React and Wordpress.
 
-Skills: REACT / JS / HTML / CSS
+##Skills and Experience:
+*  ⚛️ React
+*  💻 HTML, CSS, JS
+* 
+REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
 - 📫 How to reach me: robine@robine.cc 
