@@ -1,4 +1,4 @@
-![Full-Stack](https://github.com/robine81/robine81/blob/main/Screenshot%202023-09-05%20at%2015.05.49.png)
+![Full-Stack](https://github.com/robine81/robine81/blob/main/Robine%20banner.png)
 
 ### Hi there 👋 I'm Robine
 I have 8+ years of experience working in the tech world.  
