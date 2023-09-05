@@ -1,7 +1,6 @@
 ![Full-Stack](https://github.com/robine81/robine81/blob/main/Screenshot%202023-09-05%20at%2015.05.49.png)
 
 ### Hi there 👋 I'm Robine
-#### Full-Stack Web Developer
 I have 8+ years of experience working in the tech world.  
 I'm a Full-Stack Developer, enthusiastic about expanding my skills and tackling challenging projects. 
 
