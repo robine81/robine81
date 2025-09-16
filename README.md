@@ -2,7 +2,7 @@
 
 ### Hi there 👋 I'm Robine
 I have 8+ years of experience working in the tech world.  
-I'm a Full-Stack Developer, enthusiastic about expanding my skills and tackling challenging projects. 
+I'm a Java Developer, enthusiastic about expanding my skills and tackling challenging projects. 
 
 ## I'm currently learning and using:
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40" style="max-width: 100%;"></a> 
